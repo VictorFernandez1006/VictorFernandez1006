@@ -45,8 +45,6 @@ More than a portfolio, this GitHub profile is my personal lab — a space to tes
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorFernandez1006&theme=neon&hide_border=true)](https://git.io/streak-stats)
 
-[![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorFernandez1006&show_icons=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 📫 Connect with Me
