@@ -43,7 +43,7 @@ More than a portfolio, this GitHub profile is my personal lab — a space to tes
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VictorFernandez1006&theme=neon&hide_border=true)](https://git.io/streak-stats)
+(https://github-readme-streak-stats.herokuapp.com?user=VictorFernandez1006&theme=neon&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
