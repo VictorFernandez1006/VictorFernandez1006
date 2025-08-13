@@ -43,9 +43,7 @@ More than a portfolio, this GitHub profile is my personal lab — a space to tes
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFernandez1006)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFernandez1006&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFernandez1006&hide_progress=true)
 
 ---
 
