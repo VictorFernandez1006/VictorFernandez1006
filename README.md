@@ -43,7 +43,7 @@ More than a portfolio, this GitHub profile is my personal lab — a space to tes
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFernandez1006&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFernandez1006&layout=compact)
 
 ---
 
